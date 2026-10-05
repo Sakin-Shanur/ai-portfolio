@@ -20,7 +20,7 @@ export function About() {
           <Reveal className="lg:col-span-2">
             <div className="glass group relative aspect-square overflow-hidden rounded-3xl">
               <Image
-                src="/images/portrait.png"
+                src="/images/portrait.jpg"
                 alt="Portrait of Minjun lit in cyan and purple light"
                 fill
                 sizes="(min-width: 1024px) 40vw, 100vw"
