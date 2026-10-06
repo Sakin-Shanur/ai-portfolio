@@ -15,6 +15,10 @@ const rowOne = [
   'JavaScript',
   'HTML',
   'CSS',
+  'React',
+  'Next.js',
+  'Tailwind CSS',
+  'Flask',
 ];
 
 const rowTwo = [
