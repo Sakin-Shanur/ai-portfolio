@@ -12,7 +12,11 @@ const rowOne = [
   'OpenCV',
   'NumPy',
   'Pandas',
-]
+  'JavaScript',
+  'HTML',
+  'CSS',
+];
+
 const rowTwo = [
   'LangChain',
   'Transformers',
@@ -25,7 +29,9 @@ const rowTwo = [
   'Rust',
   'PostgreSQL',
   'AI SDK',
-]
+  'MySQL',
+  'MongoDB',
+];
 
 function MarqueeRow({ items, reverse }: { items: string[]; reverse?: boolean }) {
   return (
